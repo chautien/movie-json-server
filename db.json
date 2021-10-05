@@ -1,0 +1,43 @@
+{
+  "movies_introduce": [
+    {
+      "id": 1,
+      "movie_id": "mv001",
+      "category_code": "anm",
+      "category_name": "anime",
+      "name": "Your Lie In April - Lời Nói Dối Tháng Tư",
+      "genres": "Anime",
+      "country_of_origin": "Nhật Bản",
+      "duration": "22 mins",
+      "rated": "13+",
+      "banner_active": false,
+      "banner_image_url": "https://wallpaperscave.com/images/thumbs/wp-preview/800x500/18/01-31/anime-your-lie-in-april-16692.jpg",
+      "img_URL": "https://m.media-amazon.com/images/M/MV5BYThlNWY5ZDgtYTIxNC00ZjdiLWJmNGUtMDFjMDlmZTAzOWFiXkEyXkFqcGdeQXVyNTM4NzAzNjc@._V1_FMjpg_UX1000_.jpg",
+      "description": "\"Lời Nói Dối Tháng Tư\" (Your Lie in April) được chuyển thể từ manga cùng tên của tác giả Naoshi Arakawa. Chuyện kể về Arima Kousei vốn là một thần đồng dương cầm nhưng từ khi mẹ qua đời cậu đã ngừng chơi. Những cảm xúc đan xen khiến cho cuộc sống của cậu trở nên khó khăn và đầy nhàm chán. Cho đến khi gặp được Miyazono Kawori, mộ nghệ sĩ vĩ cầm cá tính, xinh đẹp, hoạt bát mọi chuyện đã thay đổi..."
+    }
+  ],
+  "movies": [
+    {
+      "_id": "ep001",
+      "season": 1,
+      "episode": 1,
+      "movie_id": "mv001",
+      "title": "Lời Nói Dối Tháng Tư - Tập 1: Đơn sắc/ Sắc màu",
+      "img_url": "https://vnw-img-cdn.popsww.com/api/v2/containers/file2/cms_thumbnails/loi_noi_doi_thang_tu_tap_1_don_sac_sac_mau_horizonta-2b286254b7b7-1605868462254-cf8HF86B.jpg?v=0&maxW=460&format=webp",
+      "video_id": "3aL0gDZtFbE"
+    },
+    {
+      "_id": "ep002",
+      "season": 1,
+      "episode": 2,
+      "movie_id": "mv001",
+      "title": "Lời Nói Dối Tháng Tư - Tập 1: Đơn sắc/ Sắc màu",
+      "img_url": "https://vnw-img-cdn.popsww.com/api/v2/containers/file2/cms_thumbnails/loi_noi_doi_thang_tu_tap_1_don_sac_sac_mau_horizonta-2b286254b7b7-1605868462254-cf8HF86B.jpg?v=0&maxW=460&format=webp",
+      "video_id": "3aL0gDZtFbE"
+    }
+  ],
+  "category": [
+    { "code": "anm", "name": "anime" },
+    { "code": "cmc", "name": "commic" }
+  ]
+}
